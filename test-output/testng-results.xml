@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-10T23:43:02 IST" name="Test Suite" finished-at="2022-02-10T23:45:27 IST" duration-ms="144227">
+    <groups>
+    </groups>
+    <test started-at="2022-02-10T23:43:02 IST" name="Selenium Tests" finished-at="2022-02-10T23:45:27 IST" duration-ms="144227">
+      <class name="selenium.xpath_css">
+        <test-method signature="scenario1()[pri:0, instance:selenium.xpath_css@56cdfb3b]" started-at="2022-02-10T23:44:58 IST" name="scenario1" finished-at="2022-02-10T23:45:27 IST" duration-ms="28256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario1 -->
+      </class> <!-- selenium.xpath_css -->
+      <class name="selenium.Alerts_messageBox_Frames">
+        <test-method signature="AlertMessages()[pri:0, instance:selenium.Alerts_messageBox_Frames@f736069]" started-at="2022-02-10T23:43:14 IST" name="AlertMessages" finished-at="2022-02-10T23:43:31 IST" duration-ms="16685" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AlertMessages -->
+        <test-method signature="Frames()[pri:0, instance:selenium.Alerts_messageBox_Frames@f736069]" started-at="2022-02-10T23:43:31 IST" name="Frames" finished-at="2022-02-10T23:43:45 IST" duration-ms="14673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Frames -->
+      </class> <!-- selenium.Alerts_messageBox_Frames -->
+      <class name="selenium.Implicit_Explicit_PageLoad_FluentWait">
+        <test-method signature="scenario1()[pri:0, instance:selenium.Implicit_Explicit_PageLoad_FluentWait@7fee8714]" started-at="2022-02-10T23:44:14 IST" name="scenario1" finished-at="2022-02-10T23:44:25 IST" duration-ms="10150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario1 -->
+      </class> <!-- selenium.Implicit_Explicit_PageLoad_FluentWait -->
+      <class name="selenium.Forms_TextBox_Radio_CheckBox">
+        <test-method signature="scenario1()[pri:0, instance:selenium.Forms_TextBox_Radio_CheckBox@6da21078]" started-at="2022-02-10T23:43:45 IST" name="scenario1" finished-at="2022-02-10T23:44:14 IST" duration-ms="29196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario1 -->
+      </class> <!-- selenium.Forms_TextBox_Radio_CheckBox -->
+      <class name="selenium.ActionsClass">
+        <test-method signature="Scenario()[pri:0, instance:selenium.ActionsClass@16a0ee18]" started-at="2022-02-10T23:43:03 IST" name="Scenario" finished-at="2022-02-10T23:43:14 IST" duration-ms="11303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario -->
+      </class> <!-- selenium.ActionsClass -->
+      <class name="selenium.xpath_child_parent_regex">
+        <test-method signature="scenario1()[pri:0, instance:selenium.xpath_child_parent_regex@4229bb3f]" started-at="2022-02-10T23:44:25 IST" name="scenario1" finished-at="2022-02-10T23:44:58 IST" duration-ms="33902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario1 -->
+      </class> <!-- selenium.xpath_child_parent_regex -->
+    </test> <!-- Selenium Tests -->
+  </suite> <!-- Test Suite -->
+</testng-results>

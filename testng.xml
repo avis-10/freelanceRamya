@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Test Suite" verbose="1">
+	<test name="Selenium Tests">
+		<classes>
+			<class name="selenium.ActionsClass" />
+			<class name="selenium.Alerts_messageBox_Frames" />
+			<class name="selenium.Forms_TextBox_Radio_CheckBox" />
+			<class name="selenium.Implicit_Explicit_PageLoad_FluentWait" />
+			<class name="selenium.xpath_child_parent_regex" />
+			<class name="selenium.TestListener" />
+			<class name="selenium.xpath_css" />
+		</classes>
+	</test>
+</suite>
